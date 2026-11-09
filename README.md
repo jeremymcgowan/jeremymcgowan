@@ -1,4 +1,4 @@
-Jeremy (JP) McGowan
+# Jeremy (JP) McGowan
 
 **Technology Executive · Infrastructure Engineer · Co-Founder, Executive I/O · Applied AI**
 
